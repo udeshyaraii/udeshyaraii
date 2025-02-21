@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @udeshyaraii
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning DSA
-- 📫 You can text me at rudr1612@gmail.com
-- ⚡ Fun fact: I am a Engineering Student
